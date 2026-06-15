@@ -1,0 +1,15 @@
+# --- Frontend Ignores ---
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# --- Backend Ignores ---
+backend/target/
+backend/.idea/
+backend/*.iml
+backend/bin/
+
+# --- OS/IDE Temp Files ---
+.DS_Store
+Thumbs.db
+.vscode/
